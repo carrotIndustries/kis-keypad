@@ -1,0 +1,104 @@
+{
+    "manufacturer": "",
+    "name": "74xx165",
+    "pins": {
+        "00ee842e-4ee8-4b34-812b-1494a60261f9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SER",
+            "swap_group": 0
+        },
+        "0bce44a9-d209-4a05-bd83-c6446391cbf0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D3",
+            "swap_group": 0
+        },
+        "20ce1e6a-a9d9-4d18-8259-13df6045a04c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D7",
+            "swap_group": 0
+        },
+        "29ee8d82-2bca-4ffa-b4e4-8a81f2797770": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D2",
+            "swap_group": 0
+        },
+        "5dbe1483-238d-4dec-8d23-1a0f05593cf0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~CE",
+            "swap_group": 0
+        },
+        "5dfd7aaa-6567-473b-a2b8-a1f620289bbd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D1",
+            "swap_group": 0
+        },
+        "620b296f-ba38-4da7-afc4-7cb1db68c4d0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D5",
+            "swap_group": 0
+        },
+        "7307b0c9-447a-4848-a31d-a4d11d01c613": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "74953604-f717-419d-ba35-05b103506083": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D6",
+            "swap_group": 0
+        },
+        "779dfec4-7deb-4905-a04b-77bf36a73270": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Q",
+            "swap_group": 0
+        },
+        "a383f3c4-31de-477a-bc91-515c5d97d74a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~LD",
+            "swap_group": 0
+        },
+        "af4e7ddd-de78-49de-b773-efad35e62d74": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vcc",
+            "swap_group": 0
+        },
+        "c71942cc-a358-4600-8c76-216adf8f05ac": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "e4dd07f2-291e-4059-b85d-ec50033fdce9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "~Q",
+            "swap_group": 0
+        },
+        "ec8fd117-6b47-4436-a668-b1e352e213db": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D4",
+            "swap_group": 0
+        },
+        "fa3d3150-8b6b-4dd6-968a-49913b99fe4b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D0",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "890cf794-3c5c-47c7-acdf-5f4e0afe38a9"
+}

@@ -1,0 +1,52 @@
+{
+    "annotation": {
+        "fill_gaps": true,
+        "ignore_unknown": false,
+        "keep": true,
+        "mode": "sheet_100",
+        "order": "right_down"
+    },
+    "block": "42c56fe0-5b26-4468-9182-de527bd75acf",
+    "group_tag_visible": false,
+    "name": "",
+    "pdf_export_settings": {
+        "min_line_width": 0,
+        "output_filename": ""
+    },
+    "rules": {
+        "connectivity": {
+            "enabled": true,
+            "include_unnamed": true,
+            "order": -1
+        }
+    },
+    "sheets": {
+        "a380ebb0-905a-477f-9ad3-c8c5ac50648f": {
+            "arcs": {},
+            "block_symbols": {},
+            "bus_labels": {},
+            "bus_rippers": {},
+            "frame": "ba34cbaf-e36e-44c3-af16-bab253fc720b",
+            "index": 1,
+            "junctions": {},
+            "lines": {},
+            "name": "First sheet",
+            "net_labels": {},
+            "net_lines": {},
+            "power_symbols": {},
+            "symbols": {},
+            "texts": {},
+            "title_block_values": {}
+        }
+    },
+    "title_block_values": {
+        "author": "Lukas K.",
+        "date": "2022-10-03",
+        "project_name": "kis-keypad-panel",
+        "project_title": "kis-keypad-panel",
+        "rev": "1"
+    },
+    "type": "schematic_block",
+    "uuid": "f812769c-a770-48f7-ad40-03860134e4ac",
+    "version": 8
+}

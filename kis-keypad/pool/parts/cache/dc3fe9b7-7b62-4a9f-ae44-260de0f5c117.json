@@ -1,0 +1,64 @@
+{
+    "MPN": [
+        false,
+        "0527930570"
+    ],
+    "datasheet": [
+        false,
+        "https://www.molex.com/pdm_docs/sd/527930570_sd.pdf"
+    ],
+    "description": [
+        false,
+        "1.0mm FFC connector"
+    ],
+    "entity": "c92588a0-86ac-4b1c-aa07-b591777d2617",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Molex"
+    ],
+    "model": "8fdea32d-fdc1-4caa-a589-3af67fb57acc",
+    "package": "6708112e-2728-4003-bc4f-ec2471e6334c",
+    "pad_map": {
+        "01d3b696-585b-417e-b7d1-3f4d4218bb92": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "dd9ef2c9-0256-4f19-b1a9-2a4dffd82261"
+        },
+        "5ac0fa49-9b6f-4459-b58a-e9b863a29575": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "d5465e9d-439d-4a9c-b2a6-9ff92edf1f63"
+        },
+        "6aa9f957-1820-43cd-ab1d-0a3d86385f04": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "dd9ef2c9-0256-4f19-b1a9-2a4dffd82261"
+        },
+        "70bf7b6f-86c3-4d1c-925f-0dfe9a4af3ee": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "203bb8a2-729f-4d85-9078-2023b941401f"
+        },
+        "748a165c-6ff0-435b-9964-33e0538a38c2": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "4b24441b-cbeb-49bc-9a30-277a9a11c2b6"
+        },
+        "d78e0062-476f-4c0e-bfeb-35d85136a472": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "c3b4ba45-ad58-43eb-9709-a71e815d9012"
+        },
+        "dd9d6b44-80fc-4963-b37c-16fcf452632d": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "b8924622-e129-4d44-a4ec-46cccc6fbcaf"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "ffc"
+    ],
+    "type": "part",
+    "uuid": "dc3fe9b7-7b62-4a9f-ae44-260de0f5c117",
+    "value": [
+        false,
+        ""
+    ]
+}

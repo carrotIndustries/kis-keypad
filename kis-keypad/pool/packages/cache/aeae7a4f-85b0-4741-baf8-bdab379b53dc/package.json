@@ -1,0 +1,300 @@
+{
+    "arcs": {},
+    "default_model": "c0895678-13d7-4bf0-88f9-bba02fbcdbb4",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1270000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "44ba43f3-7a7c-4ca7-85d1-425827e94a29": {
+            "position": [
+                6985000,
+                -6985000
+            ]
+        },
+        "c36d4c3b-fcf7-41bc-9dd7-206b2416d514": {
+            "position": [
+                -6985000,
+                -6985000
+            ]
+        },
+        "d97da840-e894-41a3-888c-b015ab68b5f9": {
+            "position": [
+                -6985000,
+                6985000
+            ]
+        },
+        "fd57c4dd-2b43-4c5f-bfd9-a2c8d4bef313": {
+            "position": [
+                6985000,
+                6985000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "000c48f6-3b8a-4f80-b1d6-4eee751ab81f": {
+            "from": "d97da840-e894-41a3-888c-b015ab68b5f9",
+            "layer": 20,
+            "to": "fd57c4dd-2b43-4c5f-bfd9-a2c8d4bef313",
+            "width": 120000
+        },
+        "d329d758-d9a5-4134-8a09-f554c40944e2": {
+            "from": "c36d4c3b-fcf7-41bc-9dd7-206b2416d514",
+            "layer": 20,
+            "to": "d97da840-e894-41a3-888c-b015ab68b5f9",
+            "width": 120000
+        },
+        "d3ba4403-ad72-4eed-be48-cc027db3199f": {
+            "from": "44ba43f3-7a7c-4ca7-85d1-425827e94a29",
+            "layer": 20,
+            "to": "c36d4c3b-fcf7-41bc-9dd7-206b2416d514",
+            "width": 120000
+        },
+        "fdd2c7e5-168f-4f40-9ecf-c040f1b422c6": {
+            "from": "fd57c4dd-2b43-4c5f-bfd9-a2c8d4bef313",
+            "layer": 20,
+            "to": "44ba43f3-7a7c-4ca7-85d1-425827e94a29",
+            "width": 120000
+        }
+    },
+    "manufacturer": "Cherry",
+    "models": {
+        "c0895678-13d7-4bf0-88f9-bba02fbcdbb4": {
+            "filename": "3d_models/cache/6d752bc3-29b3-45df-8cf2-1e3aacefbcc6/3d_models/mechanical/switch/cherry-mx.step",
+            "pitch": 0,
+            "roll": 49152,
+            "x": 0,
+            "y": -1036000,
+            "yaw": 0,
+            "z": 4807000
+        }
+    },
+    "name": "Cherry MX",
+    "pads": {
+        "0f0a7cea-6864-4811-87b9-7446a1731c00": {
+            "name": "M1",
+            "padstack": "762c84c2-187d-454a-af81-d3381bec5257",
+            "parameter_set": {
+                "hole_diameter": 4000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "51ef2c9f-6e9f-48a7-8440-8c0f7fd20546": {
+            "name": "M2",
+            "padstack": "762c84c2-187d-454a-af81-d3381bec5257",
+            "parameter_set": {
+                "hole_diameter": 1700000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -5080000,
+                    0
+                ]
+            }
+        },
+        "8c6c26ca-1f62-4704-adf7-bacdc5fddd59": {
+            "name": "2",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1500000,
+                "pad_diameter": 2200000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3810000,
+                    2540000
+                ]
+            }
+        },
+        "ae8a090a-cc7b-4f58-946d-5c26a6eb1fb7": {
+            "name": "M3",
+            "padstack": "762c84c2-187d-454a-af81-d3381bec5257",
+            "parameter_set": {
+                "hole_diameter": 1700000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    5080000,
+                    0
+                ]
+            }
+        },
+        "f6c5a3af-edeb-4437-ae57-bbdb6822ab4b": {
+            "name": "1",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1500000,
+                "pad_diameter": 2200000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2540000,
+                    5080000
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {
+        "1a40ab55-4931-4820-81f7-83e345841edf": {
+            "layer": 50,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -6350000,
+                        6350000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        6350000,
+                        6350000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        6350000,
+                        -6350000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -6350000,
+                        -6350000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "77561c57-0c6b-40b6-bc45-85f01eb08750": {
+            "layer": 40,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -6350000,
+                        6350000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        6350000,
+                        6350000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        6350000,
+                        -6350000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -6350000,
+                        -6350000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "1.00u",
+        "cherry",
+        "keyswitch",
+        "mx",
+        "pcb"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "aeae7a4f-85b0-4741-baf8-bdab379b53dc"
+}

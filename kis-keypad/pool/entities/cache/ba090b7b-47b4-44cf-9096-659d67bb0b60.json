@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "6287e087-f1ce-44fb-a1a1-f8ab093a721d": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "890cf794-3c5c-47c7-acdf-5f4e0afe38a9"
+        }
+    },
+    "manufacturer": "",
+    "name": "74xx165",
+    "prefix": "U",
+    "tags": [
+        "logic",
+        "shift-register"
+    ],
+    "type": "entity",
+    "uuid": "ba090b7b-47b4-44cf-9096-659d67bb0b60"
+}

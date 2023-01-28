@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "Cherry MX PCB Mount"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "09952b1f-1221-48ad-896c-4481914e3af2",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Cherry"
+    ],
+    "model": "c0895678-13d7-4bf0-88f9-bba02fbcdbb4",
+    "package": "aeae7a4f-85b0-4741-baf8-bdab379b53dc",
+    "pad_map": {
+        "8c6c26ca-1f62-4704-adf7-bacdc5fddd59": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "831b482b-82af-40ba-8cc0-5e272f25cc2c"
+        },
+        "f6c5a3af-edeb-4437-ae57-bbdb6822ab4b": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "97955848-10f4-4667-b838-46f6bb8fe085"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "17034322-9493-4f8d-8778-fb5e5ef67129",
+    "value": [
+        false,
+        ""
+    ]
+}

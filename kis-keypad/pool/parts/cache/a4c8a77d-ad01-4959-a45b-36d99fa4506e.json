@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "1734753-1"
+    ],
+    "datasheet": [
+        false,
+        "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2324271&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=1-2324271-1"
+    ],
+    "description": [
+        false,
+        "USB Mini-B vertical receptacle"
+    ],
+    "entity": "84f27da9-765a-4f51-acdf-a9c9823ca1af",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "5873c1a9-ebc0-4ba6-ad4f-2c02c51a2d7a",
+    "override_prefix": "yes",
+    "package": "e7967edc-475c-419a-9c8e-e300bf588e24",
+    "pad_map": {
+        "343cda23-fd76-47a5-a05e-22d27f0b8a01": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "393bbed9-8924-4934-ac24-2cf32d8af8c8"
+        },
+        "7c18b466-2d99-44b5-8505-5fd1c574c88d": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "2e422f41-bfbc-46ad-abbe-167843a99170"
+        },
+        "89a0d78a-535a-4c33-9af6-1d0fa8db28d9": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "6a805b9e-cda4-4c01-ad45-ad8d96d7de48"
+        },
+        "92d08ed6-2ffa-4a40-aa55-94fc4f318a83": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "b6e7a3ce-cb8b-4694-a9c2-7991691592a2"
+        },
+        "c2887cbf-7c8e-444f-bee1-19557d5a99c2": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "a5726f76-0de5-4924-91f1-76564cac556c"
+        },
+        "c51982db-aefd-4d31-a46b-80322afc48fc": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "6a805b9e-cda4-4c01-ad45-ad8d96d7de48"
+        },
+        "ccc10a7e-5a76-4d19-a1b5-3f8b8bf80a77": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "6a805b9e-cda4-4c01-ad45-ad8d96d7de48"
+        },
+        "e16f76ec-8c3b-4216-a960-ae21073bf65e": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "427c77f5-287a-4614-a3d5-f09dc5a512a3"
+        }
+    },
+    "parametric": {},
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "a4c8a77d-ad01-4959-a45b-36d99fa4506e",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 2
+}

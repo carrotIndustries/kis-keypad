@@ -1,0 +1,40 @@
+{
+    "block_instance_mappings": {},
+    "block_instances": {},
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {},
+    "group_names": {},
+    "name": "Top",
+    "net_class_default": "acc472ad-3569-4701-bec9-f5ec73bc932d",
+    "net_classes": {
+        "acc472ad-3569-4701-bec9-f5ec73bc932d": {
+            "name": "default"
+        }
+    },
+    "nets": {},
+    "project_meta": {
+        "author": "Lukas K.",
+        "date": "2022-10-03",
+        "project_name": "kis-keypad-panel",
+        "project_title": "kis-keypad-panel",
+        "rev": "1"
+    },
+    "tag_names": {},
+    "uuid": "42c56fe0-5b26-4468-9182-de527bd75acf"
+}
